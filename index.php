@@ -54,7 +54,7 @@
       <div class="page-content">Please enter integers for dimensions:</div>
       <br />
       <!-- Simple Textfield for integers-->
-      <form action="answer.php" method"GET">
+      <form action="answer.php" method="GET">
         <span>Length:</span>
         <div class="mdl-textfield mdl-js-textfield">
           <!-- input pattern attribute -->
